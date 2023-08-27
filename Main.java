@@ -9,7 +9,7 @@ public class Main {
 }
 
 // stage 2/7
-//    int[] secretCode = {9, 3, 0, 5};
+//    int[] secretCode = {9, 3, 0, 5};as
 //    Scanner scanner = new Scanner(System.in);
 //    String[] arr = scanner.nextLine().split("");
 //    int[] userInput = new int[arr.length];
