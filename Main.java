@@ -8,7 +8,7 @@ public class Main {
     }
 }
 
-// stage 2/7
+// stage 2/7sas
 //    int[] secretCode = {9, 3, 0, 5};as
 //    Scanner scanner = new Scanner(System.in);
 //    String[] arr = scanner.nextLine().split("");
